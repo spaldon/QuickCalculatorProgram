@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\alexj\OneDrive\Desktop\2DC++GameDevelopement\ProjectFiles\First2dProject\LearnC++\LearnC++\Source.cpp(118,21): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\alexj\OneDrive\Desktop\2DC++GameDevelopement\ProjectFiles\First2dProject\LearnC++\LearnC++\Source.cpp(121,21): warning C4553: '==': result of expression not used; did you intend '='?
+  LearnC++.vcxproj -> C:\Users\alexj\OneDrive\Desktop\2DC++GameDevelopement\ProjectFiles\First2dProject\LearnC++\x64\Debug\LearnC++.exe
